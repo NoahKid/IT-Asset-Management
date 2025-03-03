@@ -27,5 +27,5 @@ This project is a **structured IT asset tracking system** built using Microsoft 
 - **Red highlight** for **expired warranties**.   
 - Uses the formula:  
   ```excel
-  =D2<TODAY()  → (Red for expired)  
-  =AND(D2>=TODAY(), D2<=TODAY()+90) → (Yellow for expiring soon)
+  =G2<TODAY()  → (Red for expired)  
+ 
