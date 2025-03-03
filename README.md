@@ -24,8 +24,7 @@ This project is a **structured IT asset tracking system** built using Microsoft 
 - Reduces manual errors in asset classification.  
 
 ### 3️⃣ Automated Warranty Expiration Tracking  
-- **Red highlight** for **expired warranties**.  
-- **Yellow warning** for assets expiring **within 90 days**.  
+- **Red highlight** for **expired warranties**.   
 - Uses the formula:  
   ```excel
   =D2<TODAY()  → (Red for expired)  
